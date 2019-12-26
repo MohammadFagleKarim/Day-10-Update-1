@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CustomerDetailsInformation.Model
+{
+    public class Customers
+    {
+        Customers customers = new Customers();
+
+        public int CustomerId { get; set; }
+        public string CustomerCode { get; set; }
+        public string CustomerName { get; set; }
+        public string Address { get; set; }
+        public string Contact { get; set; }
+        public string DistrictId { get; set; }
+    }
+}

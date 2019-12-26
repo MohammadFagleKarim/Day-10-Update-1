@@ -1,0 +1,10 @@
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\bin\Debug\CustomerDetailsInformation.exe.config
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\bin\Debug\CustomerDetailsInformation.exe
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\bin\Debug\CustomerDetailsInformation.pdb
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\obj\Debug\CustomerDetailsInformation.csprojAssemblyReference.cache
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\obj\Debug\CustomerDetailsInformation.CustomerUi.resources
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\obj\Debug\CustomerDetailsInformation.Properties.Resources.resources
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\obj\Debug\CustomerDetailsInformation.csproj.GenerateResource.cache
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\obj\Debug\CustomerDetailsInformation.csproj.CoreCompileInputs.cache
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\obj\Debug\CustomerDetailsInformation.exe
+G:\Day-10 Update\CustomerDetailsInformation\CustomerDetailsInformation\obj\Debug\CustomerDetailsInformation.pdb
